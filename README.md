@@ -27,7 +27,7 @@ After all agents are killed, the agent with the highest score is cloned and slig
 
 ![Learned shooting](gif02_aiming.gif)
 
-### Move complex behaviours emerage, such as moving and shooting:
+### Move complex behaviours emerge, such as moving and shooting:
 
 ![Learning moving and shooting](gif03_move_and_shoot.gif)
 
