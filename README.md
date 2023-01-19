@@ -17,16 +17,20 @@ f(x) = 1 / (1 + e^(-x))
 The current highest-scoring agent is colored in Gold, and its score is displayed at the top left corner of the screen.
 After all agents are killed, the agent with the highest score is cloned and slightly mutated for the next generation.
 
-# Showcase
+## Showcase
 
-Things start out pretty chaotically
+### Things start out pretty chaotically:
+
 ![First there was chaos](gif01_start.gif)
 
-After a few rounds an agent learns to shoot when an asteroid is in-front of it, and achieves the highest score
+### After a few rounds an agent learns to shoot when an asteroid is in-front of it, and achieves the highest score:
+
 ![Learned shooting](gif02_aiming.gif)
 
-Move complex behaviours emerage, such as moving and shooting
+### Move complex behaviours emerage, such as moving and shooting:
+
 ![Learning moving and shooting](gif03_move_and_shoot.gif)
 
-Left for a few more rounds and an agent learns to only shoot when it can hit an asteroid with certainty
+### Left for a few more rounds and an agent learns to only shoot when it can hit an asteroid with certainty:
+
 ![Restrained moving and shooting](gif04_move_and_restrained_shooting.gif)
