@@ -17,7 +17,7 @@ f(x) = 1 / (1 + e^(-x))
 The current highest-scoring agent is colored in Gold, and its score is displayed at the top left corner of the screen.
 After all agents are killed, the agent with the highest score is cloned and slightly mutated for the next generation.
 
-#Showcase
+# Showcase
 
 Things start out pretty chaotically
 ![First there was chaos](gif01_start.gif)
