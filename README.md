@@ -2,7 +2,8 @@
 Reinforcement Learning A.I that plays a clone of the classic arcade game of Asteroids.
 
 Each agent uses a neural network with 9 input dimensions:
-8 of which are for all directions around the agent in 45º increments, and one for determining if it can shoot.
+8 of which sense for asteroids around the spaceship in 45º increments and return the distance if there is one present,
+and one for determining if it can shoot.
 
 The network has 16 dimensions in the hidden layer and 4 output dimensions that determine the agent's next action:
 
